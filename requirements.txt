@@ -1,0 +1,28 @@
+# Core dependencies for Polymarket Agentic Trading System
+asyncio
+dataclasses
+collections
+hashlib
+random
+logging
+datetime
+typing
+abc
+json
+
+# Optional: For production API integration
+# requests>=2.31.0
+# websockets>=12.0
+# python-dotenv>=1.0.0
+
+# Optional: For ML models
+# numpy>=1.24.0
+# pandas>=2.0.0
+# scikit-learn>=1.3.0
+
+# Optional: For Telegram alerts
+# python-telegram-bot>=20.0
+
+# Optional: For dashboard
+# flask>=2.3.0
+# plotly>=5.15.0
